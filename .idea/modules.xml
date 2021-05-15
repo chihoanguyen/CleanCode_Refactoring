@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/8_CleanCode _Refactoring.iml" filepath="$PROJECT_DIR$/8_CleanCode _Refactoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring/Refactoring.iml" filepath="$PROJECT_DIR$/Refactoring/Refactoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SplitMethod/SplitMethod.iml" filepath="$PROJECT_DIR$/SplitMethod/SplitMethod.iml" />
+    </modules>
+  </component>
+</project>
